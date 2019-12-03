@@ -9,4 +9,5 @@ Project Goals:
 
 Separate models were created for each: red, white, and combined datasets as training sets.
 Each model was then applied to the other set and the results were compared.
+The models used were: Linear Regression, Decision Tree Regressor, and Random Forest Regressor.
 
